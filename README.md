@@ -13,3 +13,9 @@ Now, How it worked ?
 
 Solution : Read it from here : <a href="http://rishicodes.wordpress.com/"> Rishi Giri </a> 
 
+PS: I've  not written the blog for this code, as it's quite easy to understand what the code do.
+
+But, I'll write it in future. 
+
+--cheers
+
